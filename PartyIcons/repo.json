@@ -1,0 +1,27 @@
+[
+    {
+        "Author": "Ice",
+        "Name": "[IceFork] xivPartyIcons",
+        "Punchline": "Replace names with job icons, raid role positions and more!",
+        "Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.\n\nReverse-engineering effort achived by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible!",
+        "Tags": [
+            "party",
+            "icons"
+        ],
+        "InternalName": "IceXIVPartyIcons",
+        "AssemblyVersion": "3.2.1.0",
+        "RepoUrl": "https://github.com/icehaku/xivPartyIcons",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "ImageUrls": null,
+        "IconUrl": "https://raw.githubusercontent.com/LockonS483/AutoJailMarker/master/Data/TitIco.png",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 1661443794,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.1.0/AutoJailMarker.zip",
+        "DownloadLinkTesting": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.1.0/AutoJailMarker.zip",
+        "DownloadLinkUpdate": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.1.0/AutoJailMarker.zip"
+    }
+]
